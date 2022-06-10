@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/facebook.loginpage/static/css/main.b3e5aef1.css",
+    "main.js": "/facebook.loginpage/static/js/main.e421d343.js",
+    "static/media/logoFb.svg": "/facebook.loginpage/static/media/logoFb.798ff419268bc0baf33577488789967c.svg",
+    "index.html": "/facebook.loginpage/index.html",
+    "main.b3e5aef1.css.map": "/facebook.loginpage/static/css/main.b3e5aef1.css.map",
+    "main.e421d343.js.map": "/facebook.loginpage/static/js/main.e421d343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e5aef1.css",
+    "static/js/main.e421d343.js"
+  ]
+}
