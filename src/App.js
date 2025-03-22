@@ -1,12 +1,12 @@
 import React from "react";
-import Form from "./components/Form"
-import Footer from "./components/Footer"
+import Form from "./components/Form";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div>
-        <Form />
-        <Footer />
+    <div className="app">
+      <Form />
+      <Footer />
     </div>
   );
 }
